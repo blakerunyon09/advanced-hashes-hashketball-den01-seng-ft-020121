@@ -1,4 +1,3 @@
-# Write your code below game_hash
 def game_hash
   {
     home: {
@@ -234,5 +233,3 @@ def big_shoe_rebounds
   }
   p rebounds
 end
-
-big_shoe_rebounds
